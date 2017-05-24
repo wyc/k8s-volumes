@@ -10,6 +10,8 @@ These slides _attempt_ to cover:
 - Volume Plugin Codewalk
 - Future of Volumes
 
+<https://github.com/wyc/k8s-volumes>
+
 glhf!
 
 # Terminology, Demystified
